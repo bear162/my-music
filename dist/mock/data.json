@@ -1,0 +1,39 @@
+[
+    {
+        "image": "../source/song_1.jpg",
+        "audioSrc": "../source/song_1.mp3",
+        "name": "music",
+        "album": "bear",
+        "singer": "panda",
+        "duration": 266,
+        "isLike": true
+    },
+    {
+        "image": "../source/song_2.jpg",
+        "audioSrc": "../source/song_2.mp3",
+        "name": "no",
+        "album": "bear",
+        "singer": "panda",
+        "duration": 239,
+        "isLike": false
+    },
+    {
+        "image": "../source/song_3.jpg",
+        "audioSrc": "../source/song_3.mp3",
+        "name": "好运来",
+        "album": "bear",
+        "singer": "panda",
+        "duration": 248,
+        "isLike": false
+    },
+    {
+        "image": "../source/song_4.jpg",
+        "audioSrc": "../source/song_4.mp3",
+        "name": "再见",
+        "album": "bear",
+        "singer": "panda",
+        "duration": 266,
+        "isLike": false
+    }
+
+]
