@@ -2,28 +2,28 @@
     {
         "image": "../source/song_1.jpg",
         "audioSrc": "../source/song_1.mp3",
-        "name": "music",
+        "name": "not angry",
         "album": "bear",
         "singer": "panda",
-        "duration": 266,
+        "duration": 199,
         "isLike": true
     },
     {
         "image": "../source/song_2.jpg",
         "audioSrc": "../source/song_2.mp3",
-        "name": "no",
+        "name": "稻香",
         "album": "bear",
         "singer": "panda",
-        "duration": 239,
+        "duration": 243,
         "isLike": false
     },
     {
         "image": "../source/song_3.jpg",
         "audioSrc": "../source/song_3.mp3",
-        "name": "好运来",
+        "name": "小宇",
         "album": "bear",
         "singer": "panda",
-        "duration": 248,
+        "duration": 55,
         "isLike": false
     },
     {
@@ -32,7 +32,7 @@
         "name": "再见",
         "album": "bear",
         "singer": "panda",
-        "duration": 266,
+        "duration": 59,
         "isLike": false
     }
 
